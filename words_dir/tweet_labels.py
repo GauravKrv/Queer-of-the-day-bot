@@ -26,6 +26,7 @@ labels = [
     'androsexual',
     'gynosexual',
     'homosexual',
+    'straight',
 
     # gender orientation
     'demiboy',
@@ -50,6 +51,8 @@ labels = [
     'intersex',
     'netrois',
     'trigender',
+    
+   
 
     # romantic orientation
     'demiromantic',
@@ -61,4 +64,5 @@ labels = [
     'polyromantic',
     'homoromantic',
     'heteroromantic'
+    'biromantic',
     ]
